@@ -11,7 +11,7 @@ export const CardList = props => {
 }
 */
 
-// 34
+// 34.
 /*
 import React from 'react'
 import './card-list.styles.css'
